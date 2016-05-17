@@ -5,11 +5,11 @@ date:   2016-05-17 11:00:00 +0000
 categories: concert
 ---
 
-[![Yann Tiersen with violin](/notes/images/2016-05-10-yann-tiersen-at-barbican/preview/DSCF4571.jpg)](/notes/images/2016-05-10-yann-tiersen-at-barbican/DSCF4571.JPG)
+[![Yann Tiersen with violin](/notes/images/2016-05-10-yann-tiersen-at-barbican/preview/DSCF4571.JPG)](/notes/images/2016-05-10-yann-tiersen-at-barbican/DSCF4571.JPG)
 
-[![Yann Tiersen](/notes/images/2016-05-10-yann-tiersen-at-barbican/preview/DSCF4573.jpg)](/notes/images/2016-05-10-yann-tiersen-at-barbican/DSCF4573.JPG)
+[![Yann Tiersen](/notes/images/2016-05-10-yann-tiersen-at-barbican/preview/DSCF4573.JPG)](/notes/images/2016-05-10-yann-tiersen-at-barbican/DSCF4573.JPG)
 
-[![Yann Tiersen with piano](/notes/images/2016-05-10-yann-tiersen-at-barbican/preview/DSCF4575.jpg)](/notes/images/2016-05-10-yann-tiersen-at-barbican/DSCF4575.jpg)
+[![Yann Tiersen with piano](/notes/images/2016-05-10-yann-tiersen-at-barbican/preview/DSCF4575.JPG)](/notes/images/2016-05-10-yann-tiersen-at-barbican/DSCF4575.jpg)
 
 
 ---
