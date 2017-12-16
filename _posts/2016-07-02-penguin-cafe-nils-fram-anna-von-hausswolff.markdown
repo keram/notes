@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Possibly Colliding Sessions, London
-date:   2017-12-16 17:00:00 +0000
+date:   2017-12-16 17:20:00 +0000
 categories: concert
 ---
 
