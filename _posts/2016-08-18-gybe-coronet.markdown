@@ -25,7 +25,3 @@ Coronet Theatre, 28 New Kent Road, London, SE1 6TJ
 ### Website:
 
 [Godspeed You! Black Emperor](http://www.coronettheatre.co.uk/events/godspeed-you-black-emperor/)
-
-### Met:
-
-Andrej (and Jonas after at Oto)
