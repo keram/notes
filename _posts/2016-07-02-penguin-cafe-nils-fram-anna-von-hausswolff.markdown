@@ -7,9 +7,9 @@ categories: concert
 
 ## a weekend curated by Nils Frahm
 
-[![Penguin Cafe](/notes/images/2016-06-26-harvest/preview/DSCF4878.JPG)](/notes/images/2016-06-26-harvest/DSCF4878.JPG)
+[![Penguin Cafe](/notes/images/2016-07-02-penguin-cafe-nils-fram-anna-von-hausswolff/preview/DSCF4878.JPG)](/notes/images/2016-07-02-penguin-cafe-nils-fram-anna-von-hausswolff/DSCF4878.JPG)
 
-[![Possibly Colliding Session](/notes/images/2016-06-26-harvest/preview/DSCF4870.JPG)](/notes/images/2016-06-26-harvest/DSCF4870.JPG)
+[![Possibly Colliding Session](/notes/images/2016-07-02-penguin-cafe-nils-fram-anna-von-hausswolff/preview/DSCF4870.JPG)](/notes/images/2016-07-02-penguin-cafe-nils-fram-anna-von-hausswolff/DSCF4870.JPG)
 
 
 ---
