@@ -22,7 +22,7 @@ The conference couldn't start better.
 <br/>
 <br/>
 
-### [Out of the Tarpit, Revisited - David Nolen](https://www.youtube.com/watch?v=7y1phdZkLw4)
+### [Out of the Tarpit, Revisited - David Nole](https://www.youtube.com/watch?v=7y1phdZkLw4)
 
 Wednesday morning, the first speaker on stage [David Nolen](https://twitter.com/swannodette) shared ideas from Ben Moseley and Peter Marks paper - Out of the Tar Pit (2006), advocated for a simplicity and shared examples of the use of [Datomic database](http://www.datomic.com/).
 
@@ -50,14 +50,14 @@ Some of his points:
 - is bloated
 - weak (missing UUID, versioning..)
 
-#### Alternative? [Swarm Replicated Object Notation](https://github.com/gritzko/swarm-ron)
+#### Alternative? [Replicated Object Notation](https://github.com/gritzko/ron)
 
 > Distributed data serialization format.
 Implicitly, formats like XML or JSON assume a lump of a state being delivered from a server to a client -- once and in one piece.
 RON aims to synchronize replicas by delivering a stream of changes -- continuously and incrementally.
 With RON, even an object's state is seen as a batch of compacted changes, with more changes coming.
 >
-> -- [gritzko/swarm-ron](https://github.com/gritzko/swarm-ron)
+> -- [gritzko/ron](https://github.com/gritzko/ron)
 
 <br/>
 <br/>
