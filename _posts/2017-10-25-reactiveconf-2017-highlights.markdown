@@ -1,18 +1,18 @@
 ---
 layout: post
 title:  Highlights from ReactiveConf 2017
-date:   2017-12-27 14:00:00 +0000
+date:   2017-12-27 4:00:00 +0000
 categories: conference
 ---
 [![ReactiveConf banner](/notes/images/2017-10-25-reactiveconf-2017-highlights/preview/reactive.jpg)](/notes/images/2017-10-25-reactiveconf-2017-highlights/reactive.jpg)
 
-[ReactiveConf](https://reactiveconf.com/) a conference of modern trends in web development, which brings the world top renowned speakers on such topics to Slovakia. It was the third year of the conference.
+[ReactiveConf](https://reactiveconf.com/) a conference of modern trends in web development, which brings the world-renowned speakers to Slovakia. 2017 was the third year of the conference.
 
-This year I attended the conference thanks to the generosity of friend [Johnny](http://mathalope.co.uk/) who for my luck couldn't go.
+This year I attended the conference thanks to the generosity of [Johnny](http://mathalope.co.uk/) who for my luck couldn't go.
 
-### Jonas
+### First Day in Bratislava
 
-I flew to Slovakia one day in advance and had a chance stay overnight with friend, Slovak sound artist and craftsman [Jonas Gruska](https://lom.audio/artists/jonas-gruska/). His sound experiments, field recordings and instruments are well known (His latest album [Spevy](https://lom.audio/releases/jonas-gruska-spevy/) got also mentioned in the latest release of Wire magazine.)
+I flew to Slovakia day in advance and had a chance stay overnight with a friend, Slovak sound artist and craftsman [Jonas Gruska](https://lom.audio/artists/jonas-gruska/). His sound experiments, field recordings and instruments are well known (His latest album [Spevy](https://lom.audio/releases/jonas-gruska-spevy/) got also mentioned in the latest release of Wire magazine.)
 
 [![Jonas Gruska and Wire magazine](/notes/images/2017-10-25-reactiveconf-2017-highlights/preview/jonas_wire.jpg)](/notes/images/2017-10-25-reactiveconf-2017-highlights/jonas_wire.jpg)
 
@@ -24,7 +24,7 @@ The conference couldn't start better.
 
 ### [David Nolen: Out of the Tarpit, Revisited](https://www.youtube.com/watch?v=7y1phdZkLw4)
 
-Wednesday morning, first speaker on stage [David Nolen](https://twitter.com/swannodette) shared ideas from Ben Moseley and Peter Marks paper - Out of the Tar Pit (2006), advocated for a simplicity and shared examples of use of [Datomic database](http://www.datomic.com/).
+Wednesday morning, the first speaker on stage [David Nolen](https://twitter.com/swannodette) shared ideas from Ben Moseley and Peter Marks paper - Out of the Tar Pit (2006), advocated for a simplicity and shared examples of the use of [Datomic database](http://www.datomic.com/).
 
 > When considered next to testing and reasoning, simplicity
 is more important than either. Given a stark choice between investment
@@ -42,9 +42,9 @@ But I had also my personal reasons to be excited about the second year appearanc
 
 ### [RON: Replicated Object Notation - Victor Grishchenko](https://www.youtube.com/watch?v=0Xx9kkTMi10)
 
-The second technical talk to mention was Victor Grischenko's presentation where he made good arguments against overuse of JSON as an exchange format between nowadays applications.
+The second technical talk to mention was Victor Grischenko's presentation where he made arguments against overuse of JSON as an exchange format between nowadays applications.
 
-Some of his arguments were:
+Some of his points:
 
 - JSON is well readable by humans but not so as well understandable by computers
 - is bloated
@@ -53,7 +53,7 @@ Some of his arguments were:
 #### Alternative? [Swarm Replicated Object Notation](https://github.com/gritzko/swarm-ron)
 
 > Distributed data serialization format.
-Implicitly, formats like XML or JSON assume a lump of state being delivered from a server to a client -- once and in one piece.
+Implicitly, formats like XML or JSON assume a lump of a state being delivered from a server to a client -- once and in one piece.
 RON aims to synchronize replicas by delivering a stream of changes -- continuously and incrementally.
 With RON, even an object's state is seen as a batch of compacted changes, with more changes coming.
 >
@@ -65,22 +65,24 @@ With RON, even an object's state is seen as a batch of compacted changes, with m
 ### [Secrets of the Glimmer VM - Tom Dale](https://www.youtube.com/watch?v=nXCSloXZ-wc)
 [![Glimmer](/notes/images/2017-10-25-reactiveconf-2017-highlights/preview/glimmer.jpg)](/notes/images/2017-10-25-reactiveconf-2017-highlights/glimmer.jpg)
 
-- Extracted from Ember as indepedent project, [Glimmer](https://glimmerjs.com/
+The third, favourite talk, brought very unconventional and interesting idea of breaking the general view how a web application works by removing the middle part of "Download, Parse, Execute" stack.
+
+- Extracted from Ember as independent project, [Glimmer](https://glimmerjs.com/
 ) is a flexible, low-level rendering pipeline for building a "live" DOM from Handlebars templates that can subsequently be updated cheaply when data changes.
 
 - Build in TypeScript, compiling to bytecode.
 
-- [The Glimmer VM: Boots Fast and Stays Fast](http://yehudakatz.com/2017/04/05/the-glimmer-vm-boots-fast-and-stays-fast/) - blogpost by Yehuda Katz
+- [The Glimmer VM: Boots Fast and Stays Fast](http://yehudakatz.com/2017/04/05/the-glimmer-vm-boots-fast-and-stays-fast/) - blog post by Yehuda Katz
 
 
 ### Ethereum Meetup at [Progressbar](https://www.progressbar.sk)
 
-Thursday evening meand unexpected adventure, when the driver of the last bus (and connection) to my hometown, decided not to take any more passengers and I found myself standing at the bus station with free evening and with no particular plans for the night. Fortunately, the situation had happy end thanks to Matej and Ivanka and also managed attended very interesting meetup at local hackerspace Progressbar about cryptocurrencies and investments.
+Thursday evening had unexpected complications, when a driver of the last bus to my hometown, decided not to take any more passengers and I found myself standing at the bus station, with free evening and with no particular plans for the night. Fortunately, the situation had happy end thanks to Matej and Ivanka and I was also lucky to attend a very interesting meetup at local hackerspace Progressbar about cryptocurrencies and investments.
 
 ### Friday Workshops at FIT
 
 On Friday the conference moved to a new location for a day full of workshops, discussions and screenings.
-I attended a workshop on [Reason language](https://reasonml.github.io/) which together with talk day before ([Reason: JavaScript-flavored OCaml - Jared Forsyth](https://www.youtube.com/watch?v=lN78ystnVw4)) give good reason why I can recommend to keep eye on this language.
+I went to a workshop on [Reason language](https://reasonml.github.io/) which together with talk day before ([Reason: JavaScript-flavored OCaml - Jared Forsyth](https://www.youtube.com/watch?v=lN78ystnVw4)) give a good reason why I can recommend to keep eye on this language.
 
 [![Reason](/notes/images/2017-10-25-reactiveconf-2017-highlights/preview/reason.jpg)](/notes/images/2017-10-25-reactiveconf-2017-highlights/reason.jpg)
 
@@ -97,7 +99,7 @@ Caml was developed in France at INRIA and EN.S
 
 <br>
 Surprise moment was when I met in one of the conference rooms my cousin whom I haven't seen for over five years so the
-conference become also a place of the family gathering.
+conference becomes also a place of the family gathering. :)
 <br />
 
 ### Post Conference and After Party
@@ -127,7 +129,7 @@ Me:
 To solve the puzzle, I asked for wine and glass of tap water with it which I got without a problem. :D
 
 With drink with my hand, I met and chat with some familiar faces from the conference and workshop.
-The last funny moment of the conference happens when after chatting with pair Rebecca and Sean from Manchester about the life and work as we all came from the UK. Later that night we found that their conference ticket number was 20 and 21. Mine was 22 which can be considered as proof that nothing happens as a coincidence! :D
+One of the last funny moments of the conference was meeting with Rebecca and Sean from Manchester. We talk bit and later that night we found that their conference ticket number was 20 and 21. Mine was 22 which can be considered as proof that nothing happens as a coincidence! :D
 
 
 **That was my ReactiveConf 2017 and I would like to thank organisers, speakers who came, friends and family who made the time spent in Slovakia special and great.**
