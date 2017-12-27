@@ -8,7 +8,7 @@ categories: conference
 
 [ReactiveConf](https://reactiveconf.com/) a conference of modern trends in web development, which brings the world-renowned speakers to Slovakia. 2017 was the third year of the conference.
 
-This year I attended the conference thanks to the generosity of [Johnny](http://mathalope.co.uk/) who for my luck couldn't go.
+This year I attended the conference thanks to [Johnny](http://mathalope.co.uk/) who for my luck couldn't go.
 
 ### First Day in Bratislava
 
@@ -16,13 +16,13 @@ I flew to Slovakia day in advance and had a chance stay overnight with a friend,
 
 [![Jonas Gruska and Wire magazine](/notes/images/2017-10-25-reactiveconf-2017-highlights/preview/jonas_wire.jpg)](/notes/images/2017-10-25-reactiveconf-2017-highlights/jonas_wire.jpg)
 
-Good job! And You should definitely listen to some of his recordings released for example on [Bandcamp - Luky](https://jonasgruska.bandcamp.com/album/l-ky).
+Good job! You can listen online some of his recordings released for example on [Bandcamp - Luky](https://jonasgruska.bandcamp.com/album/l-ky).
 We eat pizza, played Go and listen to some pieces from his music collection.<br/>
 The conference couldn't start better.
 <br/>
 <br/>
 
-### [David Nolen: Out of the Tarpit, Revisited](https://www.youtube.com/watch?v=7y1phdZkLw4)
+### [Out of the Tarpit, Revisited - David Nolen](https://www.youtube.com/watch?v=7y1phdZkLw4)
 
 Wednesday morning, the first speaker on stage [David Nolen](https://twitter.com/swannodette) shared ideas from Ben Moseley and Peter Marks paper - Out of the Tar Pit (2006), advocated for a simplicity and shared examples of the use of [Datomic database](http://www.datomic.com/).
 
@@ -57,7 +57,7 @@ Implicitly, formats like XML or JSON assume a lump of a state being delivered fr
 RON aims to synchronize replicas by delivering a stream of changes -- continuously and incrementally.
 With RON, even an object's state is seen as a batch of compacted changes, with more changes coming.
 >
-
+> -- [gritzko/swarm-ron](https://github.com/gritzko/swarm-ron)
 
 <br/>
 <br/>
@@ -74,10 +74,13 @@ The third, favourite talk, brought very unconventional and interesting idea of b
 
 - [The Glimmer VM: Boots Fast and Stays Fast](http://yehudakatz.com/2017/04/05/the-glimmer-vm-boots-fast-and-stays-fast/) - blog post by Yehuda Katz
 
+<br />
 
 ### Ethereum Meetup at [Progressbar](https://www.progressbar.sk)
 
 Thursday evening had unexpected complications, when a driver of the last bus to my hometown, decided not to take any more passengers and I found myself standing at the bus station, with free evening and with no particular plans for the night. Fortunately, the situation had happy end thanks to Matej and Ivanka and I was also lucky to attend a very interesting meetup at local hackerspace Progressbar about cryptocurrencies and investments.
+
+<br />
 
 ### Friday Workshops at FIT
 
@@ -100,6 +103,7 @@ Caml was developed in France at INRIA and EN.S
 <br>
 Surprise moment was when I met in one of the conference rooms my cousin whom I haven't seen for over five years so the
 conference becomes also a place of the family gathering. :)
+<br />
 <br />
 
 ### Post Conference and After Party
@@ -155,5 +159,6 @@ Bratislava, Slovakia
 
 ### Met:
 
-Laila, Juraj B., Wao, Palko, pht, Ivanka K. Aoik, Jan G., Milos, Zuzka M., Radka G., ?, ?, ? ...
+Laila, Juraj B., Wao, Palko, pht, Ivanka K. Aoik, Jan G.,
+Milos, Zuzka M., Radka G., David, Rebecca, Sean, ?, ? ...
 
