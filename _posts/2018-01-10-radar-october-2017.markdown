@@ -1,0 +1,92 @@
+---
+layout: radar_post
+title:  Radar - October 2017 Issue
+date:   2018-01-10 20:00:00 +0000
+categories: life
+radar: '/notes/csv/Radar - October2017.csv'
+---
+
+## What is Radar?
+
+Radar is exercice introduced and popularised by [ThoughtWorks](https://www.thoughtworks.com/).
+It's purpose is to assess and review decisions, technologies or tools across a company.
+A very important feature of Radar is also sharing results and collaborative nature of it.
+To get a better understanding what it is, I highly recommend watching their [short introductory video](https://www.thoughtworks.com/radar/byor).
+
+
+### Why?
+
+To quote official [ThoughtWorks Radar](https://www.thoughtworks.com/radar/byor) introduction page it serves to:
+
+* Objectively assess what's working, and what isn't
+* Pollinate innovation across teams and experiment accordingly
+* Balance the risk in your technology portfolio
+* Work out what kind of technology organization you want to be
+* Set a path for future success
+
+On a personal level, I have decided start doing Radar exercise for two main reasons:
+
+* It is something new to play with :)
+* Radar metaphor to visualise data, organise information and the interactive visualisation is cool :)
+
+The other reasons are:
+
+- **effectively asses and prioritise important and useful things in life**
+- keep track of decisions made and learn from any mistakes
+- **share the things I'm interested in with friends and other people and get inspiration for other great ideas**
+- ensure sustainability of career and personal life
+
+### Meaning of the Rings
+
+With little help from ThoughtWorks, I will include their and my meaning of the rings.
+
+#### Adopt
+
+- TW: *We feel strongly that the industry should be adopting these items. We use them when appropriate on our projects.*
+
+- ME: I do regularly or did and can recommend to others without hesitation.
+
+#### Trial
+
+- TW: *Worth pursuing. It is important to understand how to build up this capability. Enterprises should try this technology on a project that can handle the risk.*
+
+- ME: Actively experimenting with but not having enough information to make further decisions or recommendations and more time to evaluate is needed.
+
+#### Asses
+
+- TW: *Worth exploring with the goal of understanding how it will affect your enterprise.*
+- ME: Interested in and collecting more information about it, looking at different alternatives or waiting for a suitable project to try on.
+
+#### Hold
+
+- TW: *Proceed with caution.*
+- ME: It pops up on my Radar but for various reasons, I assign to it a lower priority at the moment. Also, items from past Radars that stop serve their purpose or do not satisfy my needs anymore.
+
+### Plans and Call for Suggestions
+
+The ThoughtWorks do multiple ceremonies around creating and publishing the Radar.
+Out of publishing it in various online formats(website, pdf) the do also [event in their office](https://info.thoughtworks.com/techradar-london17.html),
+where leaders from the company choose to present their favourite items from the current issue of Radar.
+It is an interesting and inspirational event and I was lucky already attend once in past.
+My plan is to do the Radar few times (3-4) per year, primarily publishing on a website in form of visualisation
+but very likely will also experiment with other formats. Stay tuned! :)
+
+If you have some good suggestions, feedback or ideas for things that I should put on my Radar please contact me through e-mail below or any social network you prefer.
+I would be especially grateful for tips in quadrant:
+
+Art and Pleasure
+
+ - **Do you have a book, album, concert, movie or exhibition to recommend?**
+
+Finance and Social
+
+ -  You have investment tips (like bitcoin 5 years ago .)). Is there an interesting event happening in future or you have experience with things I may be interested in?
+
+Health and Life
+
+ - Do you work in these domains or actively following latest trends? What are the latest recommendations, do's and don'ts to follow?
+
+
+If anything from above sounds familiar to you or you may come across and you think I may be interested, please, send it my way. Thank you!
+
+And maybe you will start doing and share your Radar.. :)
