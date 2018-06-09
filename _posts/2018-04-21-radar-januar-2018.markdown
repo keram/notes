@@ -1,0 +1,69 @@
+---
+layout: radar_post
+title:  Radar - January 2018 Issue
+date:   2018-06-6 20:00:00 +0000
+categories: life
+radar: '/notes/csv/Radar - January2018.csv'
+---
+
+## Highlights
+
+### Health And Life
+
+2. Zero TV series
+
+Even I still rewatch some old episodes of MASH, Black Books or Fawlty Towers it was one of
+the best decisions I did and stick to it. The disadvantage is that I don't get references
+to the latest tv series like "Black Mirror" etc. but there are more important things in life.
+Time is one of them.
+
+4. Smartwatch and fitness tracker
+
+Already first months of use showed some interesting statistics. 
+For example my average active sleep is five hours 
+
+![Sleep December and January 2018](/notes/images/2018-04-21-radar-januar-2018/preview/sleep-dec-jan.jpg)
+
+and do around seven thousand steps per month.
+
+![Steps December and January 2018](/notes/images/2018-04-21-radar-januar-2018/preview/steps-dec-jan.jpg)
+
+
+
+
+### IT and Tech
+
+18. Pair Programming
+
+It can be difficult to overcome personal fear or myths about efficiency but when it works
+it gives higher satisfaction from work, while also helping to deliver on time higher quality solutions.
+Kent Beck and Robert C. Martin provide useful tips on pair and "extreme" programming in general. 
+
+### Art and Pleasure
+
+35. [Yunguseng Dojang](https://eyd.yunguseng.com/) - The online Go School 
+
+
+<hr class="footnote" />
+
+### What is Radar?
+
+Radar is exercice introduced and popularised by [ThoughtWorks](https://www.thoughtworks.com/).
+
+#### Meaning of the Rings
+
+* _Adopt_ - Do regularly or did and can recommend to others without hesitation.
+
+* _Trial_ - Actively experimenting but not production ready.
+
+* _Asses_ - Interested in and collecting more information about it.
+
+* _Hold_ - It pops up on my Radar but not pursuing further at the moment.
+
+
+<hr class="footnote" />
+
+
+### Past Issues
+
+ - [Radar - October 2017 Issue](/notes/notes/life/2018/01/10/radar-october-2017.html)

@@ -9,7 +9,7 @@ radar: '/notes/csv/Radar - October2017.csv'
 ## What is Radar?
 
 Radar is exercice introduced and popularised by [ThoughtWorks](https://www.thoughtworks.com/).
-It's purpose is to assess and review decisions, technologies or tools across a company.
+Its purpose is to assess and review decisions, technologies or tools across a company.
 A very important feature of Radar is also sharing results and collaborative nature of it.
 To get a better understanding what it is, I highly recommend watching their [short introductory video](https://www.thoughtworks.com/radar/byor).
 
