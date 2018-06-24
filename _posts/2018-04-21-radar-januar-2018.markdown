@@ -3,7 +3,7 @@ layout: radar_post
 title:  Radar - January 2018 Issue
 date:   2018-06-6 20:00:00 +0000
 categories: life
-radar: '/notes/csv/Radar - January2018.csv'
+radar: '{"url":"/notes/csv/Radar - January2018.csv","rings":["adopt","trial","asses","hold"]}'
 ---
 
 ## Highlights
