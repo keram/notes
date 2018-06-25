@@ -244,9 +244,35 @@
         border-color: #eee;
         margin-bottom: 2.5em;
         margin-top: 3em;
+        clear: both;
+    }
+
+    .inline-images {
+        img {
+            float: none;
+            width: 45%;
+            margin-right: 10px;
+        }
+    }
+
+    li img.ilustration {
+        float: right;
+        margin-left: 10px;
+        max-width: 240px;
+    }
+
+    li, h3, ul {
+        clear: right;
     }
 }
 
+.clearfix:after {
+   content: ".";
+   visibility: hidden;
+   display: block;
+   height: 0;
+   clear: both;
+}
 
 .post .radar-footer p {
     text-align: right;

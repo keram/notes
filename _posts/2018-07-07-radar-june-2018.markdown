@@ -1,0 +1,141 @@
+---
+layout: radar_post
+title:  Radar - June 2018 Issue
+date:   2018-07-07 14:00:00 +0000
+categories: life
+radar: '{"url":"/notes/csv/Radar - June2018.csv","rings":["adopt","trial","asses","hold"]}'
+---
+
+## Highlights
+
+### Health And Life
+
+{:.clearfix}
+- **100% Dark Chocolate** / 42
+
+    [![Montezuma's Chocolate](/notes/images/2018-07-07-radar-june-2018/preview/100-cocoa-bar-with-orange-cocoa-nibs-absolute-black-p326-775_zoom.jpg)](/notes/images/2018-07-07-radar-june-2018/100-cocoa-bar-with-orange-cocoa-nibs-absolute-black-p326-775_zoom.jpg)
+
+    New guilty pleasure. Clear chocolate without sugar, last for a week
+    and especially great with morning coffee.
+
+    Favourites:
+
+     1. [Montezuma's 100% Absolute Black  with Orange & Cocoa nibs](https://www.montezumas.co.uk/bars-c1/absolute-black-c69/100-cocoa-bar-with-orange-cocoa-nibs-absolute-black-p326)
+
+     2. [Mark & Spencer Single Origin 100% Peru](https://commoditiesconnoisseur.wordpress.com/2018/03/09/marks-spencer-peru-100-86-5-100/)
+
+     3. [Montezuma's 100% Absolute Black]( https://www.montezumas.co.uk/bars-c1/100-cocoa-chocolate-bar-absolute-black-p249)
+
+
+
+- **Smartwatch and Fitness Tracking** / 37
+
+    It is interesting to see that although I feel that I spend in bed a
+    lot of time, my actual sleep levels are very low. When it comes to
+    steps and general activity plan is to keep it above 10_000 each
+    month. One pattern to see is how I tried to exercise more in winter
+    but then bank holidays and the start of spring had a negative
+    impact. Still trying to recover from that.
+
+    **Sleep Length October 2017 - June 2018**
+
+    {:.inline-images}
+    [![Sleep Length: Dec 2017 - 5:13; Jan - 4:59; Feb 5:52; Mar 5:12, May 4:4](/notes/images/2018-07-07-radar-june-2018/preview/dec-jun-sleep-2018.jpg)](/notes/images/2018-07-07-radar-june-2018/dec-jun-sleep-2018.png)
+    [![Sleep Stages](/notes/images/2018-07-07-radar-june-2018/preview/dec-jun-sleep-stages-2018.jpg)](/notes/images/2018-07-07-radar-june-2018/dec-jun-sleep-stages-2018.png)
+
+    **Steps Per Day October 2017 - June 2018**
+
+    [![Steps](/notes/images/2018-07-07-radar-june-2018/preview/dec-jun-steps-2018.jpg)](/notes/images/2018-07-07-radar-june-2018/dec-jun-steps-2018.png)
+
+### IT and Tech
+
+{:.clearfix}
+- **New Smartphone** /
+
+    [![Xiaomi Mi A1](/notes/images/2018-07-07-radar-june-2018/preview/mia1.jpg){:.ilustration}](/notes/images/2018-07-07-radar-june-2018/mia1.jpg)
+
+    Time to buy a new one. The battery in old one is completely dead and
+    inacessible wi-fi at work makes it hard to connect with people.
+    Current top choice:
+
+    **[Xiaomi Mi A1](https://www.alza.co.uk/xiaomi-mi-a1-lte-64gb-black-d5124721.htm)**
+    <br /> 5.5" 1920x1080, 4GB RAM, 64GB, 3080mAh battery, Android 7.1
+
+    *pros*: price (~ £200), screen size, clean-ish Android,
+    3.5jack
+
+    *cons*: missing NFC, last year model, looks good on paper but
+    real quality?
+
+    Alternatives: wait for this year model (Mi A2), Nokia 7, ???
+
+
+- **[Little Schemer](https://mitpress.mit.edu/books/little-schemer-fourth-edition)** / 13
+
+    [![Little Schemer](/notes/images/2018-07-07-radar-june-2018/preview/little_schemer.jpg){:.ilustration}](/notes/images/2018-07-07-radar-june-2018/little_schemer.jpg)
+    An enjoyable introduction to programming, computability and Scheme
+    language. Recommend to everybody unless you are trying to avoid eating
+    biscuits.  For next few months, I have in plan go through the second
+    book "Seasoned Schemer". Yay!
+
+### Art and Pleasure
+
+{:.clearfix}
+- **[Peckham Chamber Orchestra](https://www.facebook.com/PeckhamChamberOrchestra/)** / 23
+
+    [![PCO - Peckham Chamber Orchestra](/notes/images/2018-07-07-radar-june-2018/preview/pco.jpg){:.ilustration}](/notes/images/2018-07-07-radar-june-2018/pco.jpg)
+    Local amateur orchestra. Their sound sometimes can be rough, but
+    actually some of the pieces they played sounded better than the
+    version I found on youtube. Together with a venue (Peckham Liberal Club)
+    it is a peculiar experience.
+
+    Thank you, Hortense!
+
+- **[Hannu Rajaniemi - The Quantum Thief](https://www.amazon.co.uk/Quantum-Thief-Hannu-Rajaniemi/dp/0575088893)**
+  / 26
+
+    [![Hannu Rajaniemi - The Quantum Thief](/notes/images/2018-07-07-radar-june-2018/preview/quantum_thief.jpg){:.ilustration}](/notes/images/2018-07-07-radar-june-2018/quantum_thief.jpg)
+    One of the good sci-fi books I have read recently. We will see how the
+    story unfolds in following books. (Credit Andrej)
+
+    Summary from wiki:
+
+    <cite>
+    The Quantum Thief is the debut science fiction novel by Hannu
+    Rajaniemi and the first novel in a trilogy[1] featuring Jean le
+    Flambeur; the sequels are The Fractal Prince (2012) and The Causal
+    Angel (2014). It was published in Britain by Gollancz in 2010, and
+    by Tor in 2011 in the US. It is a heist story, set in a futuristic
+    solar system, that features a protagonist modeled on Arsène Lupin,
+    the gentleman thief of Maurice Leblanc.
+    </cite>
+    [Wikipedia](https://en.wikipedia.org/wiki/The_Quantum_Thief)
+
+
+<hr class="footnote" />
+
+### What is Radar?
+
+Radar is exercice introduced and popularised by
+[ThoughtWorks](https://www.thoughtworks.com/).
+
+#### Meaning of the Rings
+
+* _Adopt_ - Do regularly or did and can recommend to others without
+  hesitation.
+
+* _Trial_ - Actively experimenting but not production ready.
+
+* _Asses_ - Interested in and collecting more information about it.
+
+* _Hold_ - It pops up on my Radar but not pursuing further at the
+  moment.
+
+
+<hr class="footnote" />
+
+
+### Past Issues
+
+ - [Radar - January 2018 Issue](/notes/life/2018/06/06/radar-januar-2018.html)
+ - [Radar - October 2017 Issue](/notes/life/2018/01/10/radar-october-2017.html)
