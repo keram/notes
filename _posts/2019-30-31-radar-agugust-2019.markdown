@@ -1,0 +1,521 @@
+---
+layout: post
+title:  Radar - August 2019 Issue
+date:   2019-08-30 12:00:00 +0000
+categories: life
+---
+
+<style type="text/css">
+  .timestamp-wrapper { display: none }
+  .outline-3 { clear: both; }
+  h3 .tag { float: right; color: #999; font-size: 80%; }
+  .tag .it_tech { color: #86b782; }
+  .tag .art_pleasure { color: #1ebccd; }
+  .tag .health_life { color: #b32059; }
+  .tag .soc_biz { color: #f38a3e; }
+  .tag .new { color: #333; }
+  .tag .ATTACH { display: none; }
+  .todo.Asses { color: #eedc82; }
+  .todo.Trial { color: #bf3eff; }
+  .todo.Adopt { color: #90ee90; }
+  .todo.Hold { color: #778899; }
+</style>
+<div id="outline-container-orgf44d930" class="outline-3">
+<h3 id="orgf44d930"><span class="todo Asses">Asses</span> <a href="https://rubjo.github.io/victor-mono/">Victor Mono</a>&#xa0;&#xa0;&#xa0;<span class="tag"><span class="it_tech">it_tech</span>&#xa0;<span class="new">new</span></span></h3>
+<div class="outline-text-3" id="text-orgf44d930">
+<p>
+Victor Mono is a free programming font with semi-connected cursive
+ italics, symbol ligatures and Latin, Cyrillic and Greek characters.
+Asses to try set as default emacs font?
+<span class="timestamp-wrapper"><span class="timestamp">[2019-07-09 Tue 22:37]</span></span>
+</p>
+</div>
+</div>
+<div id="outline-container-org6ed89c2" class="outline-3">
+<h3 id="org6ed89c2"><span class="todo Asses">Asses</span> <a href="https://en.wikipedia.org/wiki/N._K._Jemisin#Broken_Earth_series">Broken Earth series</a> by N. K. Jemisin&#xa0;&#xa0;&#xa0;<span class="tag"><span class="art_pleasure">art_pleasure</span>&#xa0;<span class="new">new</span>&#xa0;<span class="ATTACH">ATTACH</span></span></h3>
+<div class="outline-text-3" id="text-org6ed89c2">
+<ul class="org-ul">
+<li>The Fifth Season (August 2015)</li>
+<li>The Obelisk Gate (August 2016)[20]</li>
+<li>The Stone Sky (August 2017)</li>
+</ul>
+
+<p>
+Nora K. Jemisin is an American science fiction and fantasy writer and
+    a psychologist. Her fiction explores a wide variety of themes,
+    including cultural conflict and oppression.[1][2] She has won
+    several awards for her work, including the Locus Award. As of her
+    August 2018 win, the three books of her Broken Earth series have
+    made her the only author to have won the Hugo Award for Best Novel
+    in three consecutive
+    years.
+    <a href="https://en.wikipedia.org/wiki/N._K._Jemisin">https://en.wikipedia.org/wiki/N._K._Jemisin</a>
+ <span class="timestamp-wrapper"><span class="timestamp">[2018-09-22 Sat 17:13]</span></span>
+</p>
+</div>
+</div>
+<div id="outline-container-org6887e66" class="outline-3">
+<h3 id="org6887e66"><span class="todo Asses">Asses</span> <a href="https://stedolan.github.io/jq/">jq - JSON processor</a>&#xa0;&#xa0;&#xa0;<span class="tag"><span class="it_tech">it_tech</span>&#xa0;<span class="new">new</span></span></h3>
+<div class="outline-text-3" id="text-org6887e66">
+<p>
+ <span class="timestamp-wrapper"><span class="timestamp">[2018-10-15 Mon 23:04]</span></span>
+jq is like sed for JSON data - you can use it
+to slice and filter and map and transform structured data with the
+same ease that sed, awk, grep and friends let you play with text.
+</p>
+</div>
+</div>
+<div id="outline-container-org55ab434" class="outline-3">
+<h3 id="org55ab434"><span class="todo Asses">Asses</span> <a href="https://www.passwordstore.org">pass</a>&#xa0;&#xa0;&#xa0;<span class="tag"><span class="it_tech">it_tech</span>&#xa0;<span class="new">new</span></span></h3>
+<div class="outline-text-3" id="text-org55ab434">
+<p>
+the standard unix password manager
+ <span class="timestamp-wrapper"><span class="timestamp">[2019-02-06 Wed 20:44]</span></span>
+</p>
+</div>
+</div>
+<div id="outline-container-org9ac8a18" class="outline-3">
+<h3 id="org9ac8a18"><span class="todo Trial">Trial</span> <a href="http://curltoab.com/">http://curltoab.com/</a>&#xa0;&#xa0;&#xa0;<span class="tag"><span class="it_tech">it_tech</span>&#xa0;<span class="new">new</span></span></h3>
+<div class="outline-text-3" id="text-org9ac8a18">
+<p>
+Convert a cURL request to an Apache Bench test
+</p>
+</div>
+</div>
+<div id="outline-container-orgf275f9a" class="outline-3">
+<h3 id="orgf275f9a"><span class="todo Asses">Asses</span> <a href="https://www.transfergo.com/">TransferGO</a>&#xa0;&#xa0;&#xa0;<span class="tag"><span class="soc_biz">soc_biz</span>&#xa0;<span class="new">new</span></span></h3>
+<div class="outline-text-3" id="text-orgf275f9a">
+<p>
+an alternative to TransferWise from Filip
+<a href="http://trgo.co/en/r/m8pQKq?fbclid=IwAR2ePnPPowDKU-Ohm_I4OK5giCUjHfv10NutOL0yGmhcSLGN-UBEni4rNWw">http://trgo.co/en/r/m8pQKq?fbclid=IwAR2ePnPPowDKU-Ohm_I4OK5giCUjHfv10NutOL0yGmhcSLGN-UBEni4rNWw</a>
+<span class="timestamp-wrapper"><span class="timestamp">[2019-08-06 Tue 07:15]</span></span>
+</p>
+</div>
+</div>
+<div id="outline-container-org3cd2f91" class="outline-3">
+<h3 id="org3cd2f91"><span class="todo Asses">Asses</span> <a href="http://arclanguage.org/">Arc Forum | Arc</a>&#xa0;&#xa0;&#xa0;<span class="tag"><span class="it_tech">it_tech</span>&#xa0;<span class="new">new</span></span></h3>
+<div class="outline-text-3" id="text-org3cd2f91">
+<p>
+Dialect of lisp aimed for explorative programming.
+<span class="timestamp-wrapper"><span class="timestamp">[2019-08-15 Thu 22:48]</span></span>
+</p>
+</div>
+</div>
+<div id="outline-container-org07c8f82" class="outline-3">
+<h3 id="org07c8f82"><span class="todo Asses">Asses</span> <a href="https://nixos.org/nix/">Nix</a>&#xa0;&#xa0;&#xa0;<span class="tag"><span class="it_tech">it_tech</span>&#xa0;<span class="new">new</span>&#xa0;<span class="ATTACH">ATTACH</span></span></h3>
+<div class="outline-text-3" id="text-org07c8f82">
+<p>
+ <span class="timestamp-wrapper"><span class="timestamp">[2019-08-04 Sun 20:53]</span></span>
+Nix: The Purely Functional Package Manager
+NixOS: is a Linux distribution built on top of the Nix package
+manager. Nix provides atomic upgrades and rollbacks, side-by-side
+installation of multiple versions of a package, multi-user package
+management and easy setup of build environments.
+</p>
+</div>
+</div>
+<div id="outline-container-org102ac5f" class="outline-3">
+<h3 id="org102ac5f"><span class="todo Asses">Asses</span> <a href="https://racket-lang.org/">Racket</a>&#xa0;&#xa0;&#xa0;<span class="tag"><span class="it_tech">it_tech</span>&#xa0;<span class="new">new</span></span></h3>
+<div class="outline-text-3" id="text-org102ac5f">
+<p>
+Racket is a general-purpose programming language as well as the
+ world’s first ecosystem for language-oriented
+ programming.
+<span class="timestamp-wrapper"><span class="timestamp">[2019-08-10 Sat 21:47]</span></span>
+</p>
+</div>
+</div>
+<div id="outline-container-orgfff7b6d" class="outline-3">
+<h3 id="orgfff7b6d"><span class="todo Adopt">Adopt</span> Emacs&#xa0;&#xa0;&#xa0;<span class="tag"><span class="it_tech">it_tech</span>&#xa0;<span class="old">old</span>&#xa0;<span class="ATTACH">ATTACH</span></span></h3>
+<div class="outline-text-3" id="text-orgfff7b6d">
+<p>
+Works well although with few quirks. ido-mode and changing path,
+collapse JSON, company autocomplete with tab, check spelling. These
+things should be solved with configuration which I will do over time.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org694cfcc" class="outline-3">
+<h3 id="org694cfcc"><span class="todo Adopt">Adopt</span> Hyperion - Endymion&#xa0;&#xa0;&#xa0;<span class="tag"><span class="art_pleasure">art_pleasure</span>&#xa0;<span class="new">new</span>&#xa0;<span class="ATTACH">ATTACH</span></span></h3>
+<div class="outline-text-3" id="text-org694cfcc">
+<p>
+Endymion is the third science fiction novel by American writer Dan
+Simmons, part of his Hyperion Cantos fictional universe.
+<del>Have to find time to read the third book.</del>
+At time of writing this reading the forth book.
+</p>
+</div>
+</div>
+<div id="outline-container-org84b20e0" class="outline-3">
+<h3 id="org84b20e0"><span class="todo Trial">Trial</span> Bitcoin&#xa0;&#xa0;&#xa0;<span class="tag"><span class="soc_biz">soc_biz</span>&#xa0;<span class="new">new</span></span></h3>
+<div class="outline-text-3" id="text-org84b20e0">
+<p>
+Bitcoin on rise again £8,953 per 1 BTC at the moment.
+Shall start puting some money into BTC regularly.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org7989ef1" class="outline-3">
+<h3 id="org7989ef1"><span class="todo Trial">Trial</span> Nokia 6 2017 version&#xa0;&#xa0;&#xa0;<span class="tag"><span class="it_tech">it_tech</span>&#xa0;<span class="old">old</span></span></h3>
+<div class="outline-text-3" id="text-org7989ef1">
+<p>
+Should have choose version with two SIM currently have to switch them
+and lost one twice already.  Battery life could be better but still
+good phone.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org7f940c6" class="outline-3">
+<h3 id="org7f940c6"><span class="todo Trial">Trial</span> E-reader Bouye Likebook Note 10.3&#xa0;&#xa0;&#xa0;<span class="tag"><span class="it_tech">it_tech</span>&#xa0;<span class="old">old</span></span></h3>
+<div class="outline-text-3" id="text-org7f940c6">
+<p>
+<b>Pros</b>:
+</p>
+
+<ul class="org-ul">
+<li>useful and works</li>
+<li>it has light</li>
+</ul>
+
+<p>
+<b>Cons</b>:
+</p>
+
+<ul class="org-ul">
+<li>no firmware updates at all</li>
+<li>few times crashed</li>
+<li>lost pen somewhere already</li>
+<li>missing the night friendly light</li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-orgdad9618" class="outline-3">
+<h3 id="orgdad9618"><span class="todo Hold">Hold</span> BBC Radio 3 Open Ear&#xa0;&#xa0;&#xa0;<span class="tag"><span class="art_pleasure">art_pleasure</span>&#xa0;<span class="old">old</span></span></h3>
+<div class="outline-text-3" id="text-orgdad9618">
+<p>
+Haven't been also this spring and can't see any planned sessions yet.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org423c8e7" class="outline-3">
+<h3 id="org423c8e7"><span class="todo Hold">Hold</span> safaribooksonline.com&#xa0;&#xa0;&#xa0;<span class="tag"><span class="it_tech">it_tech</span>&#xa0;<span class="old">old</span></span></h3>
+<div class="outline-text-3" id="text-org423c8e7">
+<p>
+Still have plenty of books to read, although getting more and more
+tempted for the latest live presentations and books.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org52687d8" class="outline-3">
+<h3 id="org52687d8"><span class="todo Hold">Hold</span> Smartwatch and Fitness Tracker&#xa0;&#xa0;&#xa0;<span class="tag"><span class="health_life">health_life</span>&#xa0;<span class="old">old</span></span></h3>
+<div class="outline-text-3" id="text-org52687d8">
+<p>
+The wristband on the Ionic broke and I decided to get rid of the watch completely.
+Although tracking is useful made the decision because:
+</p>
+
+<ul class="org-ul">
+<li>putting in on/off every day for a shower was hard</li>
+<li>Fitbit pay was unreliable and haven't used it for some time</li>
+<li>worries about charging and the charging cable.</li>
+<li>In general, trying to simplify life and remove unnecessary items as well.</li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-org4df7f74" class="outline-3">
+<h3 id="org4df7f74"><span class="todo Adopt">Adopt</span> Clojure&#xa0;&#xa0;&#xa0;<span class="tag"><span class="it_tech">it_tech</span>&#xa0;<span class="new">new</span>&#xa0;<span class="ATTACH">ATTACH</span></span></h3>
+<div class="outline-text-3" id="text-org4df7f74">
+<p>
+Done my first real web application in Clojure and it is used in production.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgc1b3034" class="outline-3">
+<h3 id="orgc1b3034"><span class="todo Hold">Hold</span> Crumpler Backpack - The Trooper&#xa0;&#xa0;&#xa0;<span class="tag"><span class="soc_biz">soc_biz</span>&#xa0;<span class="new">new</span></span></h3>
+<div class="outline-text-3" id="text-orgc1b3034">
+<p>
+The main benefit of the backpack is plenty of space inside but if I had to buy a new one I would look for another.
+The zip design is very bad and gets easily stuck.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org09c3bb1" class="outline-3">
+<h3 id="org09c3bb1"><span class="todo Trial">Trial</span> Spa&#xa0;&#xa0;&#xa0;<span class="tag"><span class="health_life">health_life</span>&#xa0;<span class="new">new</span></span></h3>
+<div class="outline-text-3" id="text-org09c3bb1">
+<p>
+Trencianske Teplice spa was fine but would do a few changes next time. (Different hotel, company)
+Not sure about the health benefits.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org49a0533" class="outline-3">
+<h3 id="org49a0533"><span class="todo Trial">Trial</span> Online Go League&#xa0;&#xa0;&#xa0;<span class="tag"><span class="art_pleasure">art_pleasure</span>&#xa0;<span class="old">old</span></span></h3>
+<div class="outline-text-3" id="text-org49a0533">
+<p>
+Will try <a href="https://polgote.com/en/online-go-school">https://polgote.com/en/online-go-school</a> to compare
+with <a href="http://yunguseng.com/">http://yunguseng.com/</a> .
+</p>
+</div>
+</div>
+<div id="outline-container-org5d97ed5" class="outline-3">
+<h3 id="org5d97ed5"><span class="todo Hold">Hold</span> <a href="https://www.rust-lang.org/">Rust</a>&#xa0;&#xa0;&#xa0;<span class="tag"><span class="it_tech">it_tech</span>&#xa0;<span class="old">old</span></span></h3>
+<div class="outline-text-3" id="text-org5d97ed5">
+<p>
+Rust is a multi-paradigm system programming language focused on
+safety, especially safe concurrency. Rust is syntactically similar to
+C++, but is designed to provide better memory safety while maintaining
+high performance. Wikipedia
+<a href="https://en.wikipedia.org/wiki/Rust_(programming_language)">https://en.wikipedia.org/wiki/Rust_(programming_language)</a>
+</p>
+
+<p>
+No time to learn
+</p>
+</div>
+</div>
+<div id="outline-container-orgea11caa" class="outline-3">
+<h3 id="orgea11caa"><span class="todo Trial">Trial</span> Hire Cleaner&#xa0;&#xa0;&#xa0;<span class="tag"><span class="soc_biz">soc_biz</span>&#xa0;<span class="new">new</span></span></h3>
+<div class="outline-text-3" id="text-orgea11caa">
+<p>
+Tried Amazon cleaning service once and two cleaners came.
+</p>
+
+<p>
+<b>Pros</b>: kitchen and bathroom now looks again like if human lived there
+</p>
+
+<p>
+<b>Cons</b>: Expensive
+</p>
+</div>
+</div>
+
+<div id="outline-container-org8269ebd" class="outline-3">
+<h3 id="org8269ebd"><span class="todo Adopt">Adopt</span> Seasoned Schemer&#xa0;&#xa0;&#xa0;<span class="tag"><span class="it_tech">it_tech</span>&#xa0;<span class="new">new</span></span></h3>
+<div class="outline-text-3" id="text-org8269ebd">
+<p>
+Less fun than the first book and will have to reread the last two chapters at least still can highly recommend.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org3dfd63b" class="outline-3">
+<h3 id="org3dfd63b"><span class="todo Adopt">Adopt</span> 100% Chocolate&#xa0;&#xa0;&#xa0;<span class="tag"><span class="health_life">health_life</span>&#xa0;<span class="old">old</span></span></h3>
+<div class="outline-text-3" id="text-org3dfd63b">
+<p>
+New personal favourite: 100% Cocoa with Hemp &amp; Sea Salt: Absolute Black
+<a href="https://www.montezumas.co.uk/bars-c1/absolute-black-c69/100-cocoa-with-hemp-sea-salt-absolute-black-p400">https://www.montezumas.co.uk/bars-c1/absolute-black-c69/100-cocoa-with-hemp-sea-salt-absolute-black-p400</a>
+</p>
+</div>
+</div>
+
+<div id="outline-container-org00c5863" class="outline-3">
+<h3 id="org00c5863"><span class="todo Hold">Hold</span> Digital(mobile) bank&#xa0;&#xa0;&#xa0;<span class="tag"><span class="soc_biz">soc_biz</span>&#xa0;<span class="old">old</span></span></h3>
+<div class="outline-text-3" id="text-org00c5863">
+<p>
+Multiple options: Monzo, Revolut or TransferWise but no need to action
+yet.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org07644e1" class="outline-3">
+<h3 id="org07644e1"><span class="todo Hold">Hold</span> Instant Piano Comic&#xa0;&#xa0;&#xa0;<span class="tag"><span class="art_pleasure">art_pleasure</span>&#xa0;<span class="old">old</span></span></h3>
+<div class="outline-text-3" id="text-org07644e1">
+<p>
+On todo list to read but no time.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgb9a9719" class="outline-3">
+<h3 id="orgb9a9719"><span class="todo Adopt">Adopt</span> Hannu Rajaniemi - Fractal Prince&#xa0;&#xa0;&#xa0;<span class="tag"><span class="art_pleasure">art_pleasure</span>&#xa0;<span class="new">new</span></span></h3>
+<div class="outline-text-3" id="text-orgb9a9719">
+<p>
+Second book was slightly different in feeling but still good.
+<del>Need to find time for the last book.</del>
+At this time I finished the whole series and it was fun.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgbfd84d2" class="outline-3">
+<h3 id="orgbfd84d2"><span class="todo Hold">Hold</span> Chess&#xa0;&#xa0;&#xa0;<span class="tag"><span class="art_pleasure">art_pleasure</span>&#xa0;<span class="new">new</span></span></h3>
+<div class="outline-text-3" id="text-orgbfd84d2">
+<p>
+My rating dropped sharply at the end of March and haven't recovered
+since. Haven't played in person much either.
+Prioritising Go over Chess at the moment.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org27e73cb" class="outline-3">
+<h3 id="org27e73cb"><span class="todo Hold">Hold</span> Fitbit Pay&#xa0;&#xa0;&#xa0;<span class="tag"><span class="soc_biz">soc_biz</span>&#xa0;<span class="new">new</span></span></h3>
+<div class="outline-text-3" id="text-org27e73cb">
+<p>
+No use after not having Fitbit watch anymore.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org139f1c4" class="outline-3">
+<h3 id="org139f1c4"><span class="todo Trial">Trial</span> swimming&#xa0;&#xa0;&#xa0;<span class="tag"><span class="health_life">health_life</span>&#xa0;<span class="new">new</span></span></h3>
+<div class="outline-text-3" id="text-org139f1c4">
+<p>
+Tried the pool in Peckham twice. Should make it regular.
+Trouble the shower in the pool is not good so can't figure out a good routine.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org3933772" class="outline-3">
+<h3 id="org3933772"><span class="todo Trial">Trial</span> Org Agenda&#xa0;&#xa0;&#xa0;<span class="tag"><span class="health_life">health_life</span>&#xa0;<span class="old">old</span></span></h3>
+<div class="outline-text-3" id="text-org3933772">
+<p>
+Writing down tasks helps me to remember, prioritize, plan and resolve
+them. In combination with git-sync I keep my org files in sync between
+home and office. Haven't resolved mobile support yet and google
+calendar integration.  todo super agenda
+</p>
+</div>
+</div>
+
+<div id="outline-container-org0fb745b" class="outline-3">
+<h3 id="org0fb745b"><span class="todo Asses">Asses</span> git-annex&#xa0;&#xa0;&#xa0;<span class="tag"><span class="it_tech">it_tech</span>&#xa0;<span class="old">old</span></span></h3>
+<div class="outline-text-3" id="text-org0fb745b">
+<p>
+<a href="http://git-annex.branchable.com/">http://git-annex.branchable.com/</a> allows managing files with git,
+without checking the file contents into git. While that may seem
+paradoxical, it is useful when dealing with files larger than git can
+currently easily handle, whether due to limitations in memory, time,
+or disk space.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org8d22a8d" class="outline-3">
+<h3 id="org8d22a8d"><span class="todo Adopt">Adopt</span> Zero Coffee&#xa0;&#xa0;&#xa0;<span class="tag"><span class="health_life">health_life</span>&#xa0;<span class="old">old</span></span></h3>
+<div class="outline-text-3" id="text-org8d22a8d">
+<p>
+Helps to improve sleep pattern.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org5c8e095" class="outline-3">
+<h3 id="org5c8e095"><span class="todo Hold">Hold</span> Personal Coach&#xa0;&#xa0;&#xa0;<span class="tag"><span class="soc_biz">soc_biz</span>&#xa0;<span class="new">new</span></span></h3>
+<div class="outline-text-3" id="text-org5c8e095">
+<p>
+Tried for few months. Useful but expensive long term so for now on hold.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgc47727e" class="outline-3">
+<h3 id="orgc47727e"><span class="todo Hold">Hold</span> Personal Trainer&#xa0;&#xa0;&#xa0;<span class="tag"><span class="health_life">health_life</span>&#xa0;<span class="new">new</span></span></h3>
+<div class="outline-text-3" id="text-orgc47727e">
+<p>
+Tried for few months. Should start again in October.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org27f625f" class="outline-3">
+<h3 id="org27f625f"><span class="todo Asses">Asses</span> <a href="https://www.southbankcentre.co.uk/whats-on/138201-alphazeros-game-changer-promise-ai-2019#events">AlphaZero's Game Changer: The Promise of AI</a>&#xa0;&#xa0;&#xa0;<span class="tag"><span class="art_pleasure">art_pleasure</span>&#xa0;<span class="new">new</span>&#xa0;<span class="ATTACH">ATTACH</span></span></h3>
+<div class="outline-text-3" id="text-org27f625f">
+<p>
+<span class="timestamp-wrapper"><span class="timestamp">[2019-08-23 Fri 07:32]</span></span>
+</p>
+
+<p>
+Dates &amp; times 26 Oct 2019 Part of London Literature Festival
+</p>
+
+<p>
+Matthew Sadler, Natasha Regan and Fan Hui discuss their world-first
+experiences with AI and DeepMind, an organisation at the forefront of
+artificial intelligence research.
+</p>
+
+<p>
+They debate why games are such a good testing ground for artificial
+intelligence, possible future applications of AlphaZero and the
+emotions they’ve experienced on their groundbreaking journeys.
+</p>
+
+<p>
+Grandmaster (GM) Sadler and Woman International Master (WIM) Regan
+were given unprecedented access to DeepMind’s AlphaZero.
+</p>
+
+<p>
+AlphaZero is system that famously taught itself to play to a
+superhuman standard – from zero knowledge of chess – to beat the
+existing world-champion chess computer after just a few hours of
+training.
+</p>
+
+<p>
+Game Changer is the result of their six-month investigation into
+AlphaZero’s gameplay and inner workings, and one of the most comprehensive analyses of an advanced AI program ever
+ undertaken.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org08837e1" class="outline-3">
+<h3 id="org08837e1"><span class="todo Asses">Asses</span> <a href="https://www.monicahq.com/">Personal CRM done right - Monica</a>&#xa0;&#xa0;&#xa0;<span class="tag"><span class="soc_biz">soc_biz</span>&#xa0;<span class="new">new</span></span></h3>
+<div class="outline-text-3" id="text-org08837e1">
+<p>
+<span class="timestamp-wrapper"><span class="timestamp">[2019-08-26 Mon 22:08]</span></span>
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgf23daae" class="outline-3">
+<h3 id="orgf23daae"><span class="todo Trial">Trial</span> Radar in Org Mode&#xa0;&#xa0;&#xa0;<span class="tag"><span class="soc_biz">soc_biz</span>&#xa0;<span class="new">new</span></span></h3>
+<div class="outline-text-3" id="text-orgf23daae">
+<p>
+<b>Pros:</b>
+</p>
+
+<ul class="org-ul">
+<li>better for writing descriptions</li>
+<li>ability to add attachments, links</li>
+<li>can use org-capture to store interesting links from browser to Radar</li>
+<li>Org, tags, statuses seems to be good fit for categorising items</li>
+</ul>
+
+<p>
+<b>Cons:</b>
+</p>
+
+<ul class="org-ul">
+<li>no graph</li>
+<li>export to html/markdown needs more work</li>
+<li>not sure about the strategy to open new radar or handling new/old items</li>
+<li>need automate including copyrights for attachments</li>
+</ul>
+</div>
+</div>
+
+<hr class="footnote" />
+
+
+### Past Issues
+
+ - [Radar - February 2019 Issue](/notes/life/2019/02/03/radar-february-2019.html)
+ - [Radar - June 2018 Issue](/notes/life/2018/07/07/radar-june-2018.html)
+ - [Radar - January 2018 Issue](/notes/life/2018/06/06/radar-januar-2018.html)
+ - [Radar - October 2017 Issue](/notes/life/2018/01/10/radar-october-2017.html)
